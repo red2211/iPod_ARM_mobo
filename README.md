@@ -1,4 +1,4 @@
-# iPod ARM motherboard
+# iReARM - iPod ARM motherboard
 A plug-in replacement iPod Video/Classic motherboard with modern ARM processor. 
 
 This project's goal is to create from scratch a plug-in replacement motherboard for Apple's iPod Video & Classic (5th, 5.5th, 6th, 6.5th and 7th generation), which will reuse iPod's original: 
